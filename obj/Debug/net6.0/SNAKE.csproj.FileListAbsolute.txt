@@ -1,0 +1,14 @@
+C:\Users\Serj\source\repos\SNAKE\SNAKE\obj\Debug\net6.0\SNAKE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serj\source\repos\SNAKE\SNAKE\obj\Debug\net6.0\SNAKE.AssemblyInfoInputs.cache
+C:\Users\Serj\source\repos\SNAKE\SNAKE\obj\Debug\net6.0\SNAKE.AssemblyInfo.cs
+C:\Users\Serj\source\repos\SNAKE\SNAKE\obj\Debug\net6.0\SNAKE.csproj.CoreCompileInputs.cache
+C:\Users\Serj\source\repos\SNAKE\SNAKE\bin\Debug\net6.0\SNAKE.exe
+C:\Users\Serj\source\repos\SNAKE\SNAKE\bin\Debug\net6.0\SNAKE.deps.json
+C:\Users\Serj\source\repos\SNAKE\SNAKE\bin\Debug\net6.0\SNAKE.runtimeconfig.json
+C:\Users\Serj\source\repos\SNAKE\SNAKE\bin\Debug\net6.0\SNAKE.dll
+C:\Users\Serj\source\repos\SNAKE\SNAKE\bin\Debug\net6.0\SNAKE.pdb
+C:\Users\Serj\source\repos\SNAKE\SNAKE\obj\Debug\net6.0\SNAKE.dll
+C:\Users\Serj\source\repos\SNAKE\SNAKE\obj\Debug\net6.0\refint\SNAKE.dll
+C:\Users\Serj\source\repos\SNAKE\SNAKE\obj\Debug\net6.0\SNAKE.pdb
+C:\Users\Serj\source\repos\SNAKE\SNAKE\obj\Debug\net6.0\SNAKE.genruntimeconfig.cache
+C:\Users\Serj\source\repos\SNAKE\SNAKE\obj\Debug\net6.0\ref\SNAKE.dll
